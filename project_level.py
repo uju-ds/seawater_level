@@ -1,9 +1,3 @@
-"""
-COMP.CS.100 The first Python program of programming 1.
-Creator: Ujunwa Edum
-Student id number: 153062092
-project: The task is about the level changes in Seawater.
-"""
 def input_levels():
     """
     the function creates Prompts(input of the levels) the user to input seawater levels one by one.
